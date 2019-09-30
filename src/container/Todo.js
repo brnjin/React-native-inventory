@@ -3,7 +3,7 @@ import {View, StyleSheet, Platform} from 'react-native';
 import Layout from '../hoc/Layout';
 import InputField from '../components/InputField/InputField';
 import TodoList from '../components/TodoList/TodoList';
-import API from '../api/api';
+//import API from '../api/api';
 
 const Todo = () => {
   const [todoItems, setTodoItems] = useState([]);
@@ -11,7 +11,7 @@ const Todo = () => {
 
   const addingTodoHandler = enteredObj => {
     const valuesArray = todoItems.map(a => a.value);
-    valuesArray.includes(enteredObj.value)
+    valuesArray.includes(enteredObj.name)
       ? alert('You already have that in your list')
       : setTodoItems([
           ...todoItems,
