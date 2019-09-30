@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.61.1] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/9de0ff0e78eec4c1e8c7371c7771095f/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/2d854374344411ba2b9da1f3fc5576ae/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/b0f5b507e219b4b8040649d7d8d80b61/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/073f1580f513368068942dd47a48d855/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/3cb77921db4b2882c0206c677002d0ca/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/249d494e9108b354d469186e60591635/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/08c88d1e0e719ca2cfc668175bc9b06f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/db694332f4fcbbcd4259905059d528cb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/543d59809a1f8a32cc03c95d4d89c468/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/7d1cf57fd0b8f153bf0f387645e2a7c9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/aba64227a129eb083355cb497a83065a/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/f6f14e818977d60c0705872417d8b2e7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/5ad9ccf280d755985a85650ff12494eb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/7c7c0b965263e05de03eae964d02dc3f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/2904f33e8069a1532052e7dad07c57dc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/b4c9cdbce34c9eb7a9965b329f747470/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/b1c96ffe406024c9749fc05cebcb8ffc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/a3a20538435a2dc9b5f9d1ef29cbe298/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/b34640e5270f8baf60ce32abc1a8827c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/34dcb8c232c6cbe6fb10cdc90c2509ea/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/a1c691d452782993027aeac24bff7524/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/cb8626c67b6095909246c393d4593c6d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/5b528fb9b5ef0ec7b9f63311de2bb6bb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/96412f4ebb3bd863d9cf8af242f8605d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/8149516c7ce2d15835ef861ede8205ed/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/78da6638bc51f93386d06e52fe0248ae/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/20fe677559e781a3297d887884efda6d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/0eefed0f4df9f718dd68873fcce62612/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/0d5330746b1738e091bb920491b9b5a1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/7741f05ad0d61f46cb01779e6db4bb33/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/8c998a24f6c299e29cc2f587e5322ce1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/434972a95a6ad46a325dc3a3be2e394f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/83d7d87d2eb9120bec53b58d6ae33912/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/c5d5639537e98c9c491e8e6a9a4558fa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/e27135e5cdd77d344482ac22bc709f71/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/4dc5363f1600fd73930032b8570baf3b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/1e2015ec79b8fb340dd32cf6a8d8bf5d/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:2:3-37
+		INJECTED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:2:3-37
+		INJECTED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.1] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/9de0ff0e78eec4c1e8c7371c7771095f/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.1] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/9de0ff0e78eec4c1e8c7371c7771095f/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/aba64227a129eb083355cb497a83065a/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/aba64227a129eb083355cb497a83065a/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/8149516c7ce2d15835ef861ede8205ed/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/8149516c7ce2d15835ef861ede8205ed/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/78da6638bc51f93386d06e52fe0248ae/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/78da6638bc51f93386d06e52fe0248ae/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/8149516c7ce2d15835ef861ede8205ed/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.reactnativeinventory.MainActivity
+ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.61.1] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/9de0ff0e78eec4c1e8c7371c7771095f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.1] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/9de0ff0e78eec4c1e8c7371c7771095f/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/2d854374344411ba2b9da1f3fc5576ae/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/2d854374344411ba2b9da1f3fc5576ae/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/b0f5b507e219b4b8040649d7d8d80b61/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/b0f5b507e219b4b8040649d7d8d80b61/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/073f1580f513368068942dd47a48d855/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/073f1580f513368068942dd47a48d855/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/3cb77921db4b2882c0206c677002d0ca/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/3cb77921db4b2882c0206c677002d0ca/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/249d494e9108b354d469186e60591635/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/249d494e9108b354d469186e60591635/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/08c88d1e0e719ca2cfc668175bc9b06f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/08c88d1e0e719ca2cfc668175bc9b06f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/db694332f4fcbbcd4259905059d528cb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/db694332f4fcbbcd4259905059d528cb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/543d59809a1f8a32cc03c95d4d89c468/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/543d59809a1f8a32cc03c95d4d89c468/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/7d1cf57fd0b8f153bf0f387645e2a7c9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/7d1cf57fd0b8f153bf0f387645e2a7c9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/aba64227a129eb083355cb497a83065a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/aba64227a129eb083355cb497a83065a/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/f6f14e818977d60c0705872417d8b2e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/f6f14e818977d60c0705872417d8b2e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/5ad9ccf280d755985a85650ff12494eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/5ad9ccf280d755985a85650ff12494eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/7c7c0b965263e05de03eae964d02dc3f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/7c7c0b965263e05de03eae964d02dc3f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/2904f33e8069a1532052e7dad07c57dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/2904f33e8069a1532052e7dad07c57dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/b4c9cdbce34c9eb7a9965b329f747470/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/b4c9cdbce34c9eb7a9965b329f747470/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/b1c96ffe406024c9749fc05cebcb8ffc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/b1c96ffe406024c9749fc05cebcb8ffc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/a3a20538435a2dc9b5f9d1ef29cbe298/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/a3a20538435a2dc9b5f9d1ef29cbe298/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/b34640e5270f8baf60ce32abc1a8827c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/b34640e5270f8baf60ce32abc1a8827c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/34dcb8c232c6cbe6fb10cdc90c2509ea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/34dcb8c232c6cbe6fb10cdc90c2509ea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/a1c691d452782993027aeac24bff7524/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/a1c691d452782993027aeac24bff7524/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/cb8626c67b6095909246c393d4593c6d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/cb8626c67b6095909246c393d4593c6d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/5b528fb9b5ef0ec7b9f63311de2bb6bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/5b528fb9b5ef0ec7b9f63311de2bb6bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/96412f4ebb3bd863d9cf8af242f8605d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/96412f4ebb3bd863d9cf8af242f8605d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/8149516c7ce2d15835ef861ede8205ed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/8149516c7ce2d15835ef861ede8205ed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/78da6638bc51f93386d06e52fe0248ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/78da6638bc51f93386d06e52fe0248ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/20fe677559e781a3297d887884efda6d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/20fe677559e781a3297d887884efda6d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/0eefed0f4df9f718dd68873fcce62612/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/0eefed0f4df9f718dd68873fcce62612/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/0d5330746b1738e091bb920491b9b5a1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/0d5330746b1738e091bb920491b9b5a1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/7741f05ad0d61f46cb01779e6db4bb33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/7741f05ad0d61f46cb01779e6db4bb33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/8c998a24f6c299e29cc2f587e5322ce1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/8c998a24f6c299e29cc2f587e5322ce1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/434972a95a6ad46a325dc3a3be2e394f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/434972a95a6ad46a325dc3a3be2e394f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/83d7d87d2eb9120bec53b58d6ae33912/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/83d7d87d2eb9120bec53b58d6ae33912/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/c5d5639537e98c9c491e8e6a9a4558fa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/c5d5639537e98c9c491e8e6a9a4558fa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/e27135e5cdd77d344482ac22bc709f71/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/e27135e5cdd77d344482ac22bc709f71/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/4dc5363f1600fd73930032b8570baf3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/4dc5363f1600fd73930032b8570baf3b/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/1e2015ec79b8fb340dd32cf6a8d8bf5d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/vn50hft/.gradle/caches/transforms-2/files-2.1/1e2015ec79b8fb340dd32cf6a8d8bf5d/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/vn50hft/Documents/practice/ReactNativeInventory/android/app/src/debug/AndroidManifest.xml:5:22-75
